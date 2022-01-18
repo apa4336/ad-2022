@@ -56,25 +56,25 @@ let xx = [59, 100, 80, 40, 90];
 // console.log = (xx[1])
 
 for (let i = 0; i < xx.length; i++) {
-// console.log(xx[i]);
+    // console.log(xx[i]);
 }
 
 let card = {
     name: '鄭名翔',
     tel: '0970325363',
-    addr:'高雄市阿蓮區民族路345號',
+    addr: '高雄市阿蓮區民族路345號',
     '職稱': '工程師'
 };
 // console.log(card.name);
 // console.log(card.tel);
 // console.log(card.addr);
 
-let y ='職稱';
+let y = '職稱';
 // console.log(card[y]);
 // console.log(card.職稱);
 
 //傳值
-let zz =123;
+let zz = 123;
 let yy = zz
 yy = 456
 // console.log(zz);

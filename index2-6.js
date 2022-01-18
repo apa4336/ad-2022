@@ -24,15 +24,15 @@ let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 //ture false
 for (let i = 0; i < arr.length; i++) {
     if (arr[i] % 2) {
-       // console.log(arr[i] + ':是奇數');
-}
+        // console.log(arr[i] + ':是奇數');
+    }
 }
 
 //**
 // console.log(2**10);
 let radius = 5;
 // let area = radius * radius * 3.14159;
-let area = radius**2* 3.14159;
+let area = radius ** 2 * 3.14159;
 // console.log(area);
 
 let myName = '鄭名翔'
@@ -60,6 +60,6 @@ let y = '5';
 
 // 六、條件運算子：?:
 let score = 100;
-let show = score>= 60 ? '分數及格':'分數不及格';
+let show = score >= 60 ? '分數及格' : '分數不及格';
 
-console.log(score,show);
+console.log(score, show);
