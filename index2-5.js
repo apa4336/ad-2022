@@ -64,7 +64,13 @@ let card = {
     tel: '0970325363',
     addr: '高雄市阿蓮區民族路345號',
     '職稱': '工程師'
-};
+    // getNnbame: function
+// };
+// card.getNnbame(){
+    // console.log(this.name);
+
+// }
+
 // console.log(card.name);
 // console.log(card.tel);
 // console.log(card.addr);
