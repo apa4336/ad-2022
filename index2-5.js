@@ -64,9 +64,7 @@ let card = {
     tel: '0970325363',
     addr: '高雄市阿蓮區民族路345號',
     '職稱': '工程師'
-    getNname: function(){
-        console.log(this.name);
-    }
+
 };
 card.getNname();
 
