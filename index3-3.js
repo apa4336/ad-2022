@@ -1,6 +1,6 @@
 try {
-    let x = 6;
-    //let  y = 3;
+    let x = 5;
+    let  y = 3;
     let e = x % y;
     console.log(z);
     } catch (e) {

@@ -1,5 +1,5 @@
 let x = 1000;
-for (let i = 0; i < 9; i++) {
+for (let i = 0; i < x; i++) {
     console.log(i);
     // more statements
 }
