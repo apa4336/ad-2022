@@ -8,14 +8,14 @@ let card = {
 // let x ='name'
 // console.log(card.name)
 
-//for (let i in crad){
+//for (let i in card){
 // console.log(i);
 //}
 
-for(let i in card){
-    // console.log(i);
-    console.log(typeof i);
-    console.log(card[i])
+// for(let i in card){
+//     console.log(i);
+//     console.log(typeof i);
+//     console.log(card[i])
 
 
 
@@ -27,4 +27,4 @@ for(let i in card){
     // console.log(typeof i);
     console.log(card[i])
 }
-}
+// }

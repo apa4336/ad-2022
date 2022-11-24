@@ -22,7 +22,7 @@ let s5 = '您的\n';
 s5 += '國文\n';
 s5 += '分數為' + s4;
 
-// console.log(s5);
+console.log(s5);
 
 //boolean
 // console.log(10 > 5);
@@ -64,16 +64,14 @@ let card = {
     tel: '0970325363',
     addr: '高雄市阿蓮區民族路345號',
     '職稱': '工程師'
-
 };
-card.getNname();
 
 // console.log(card.name);
 // console.log(card.tel);
 // console.log(card.addr);
 
 let y = '職稱';
-// console.log(card[y]);
+console.log(card[y]);
 // console.log(card.職稱);
 
 //傳值
