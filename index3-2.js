@@ -1,18 +1,20 @@
 const EXPR = 'Mangoes';
 switch (EXPR) {
     case 'Oranges':
-    Oranges();
-    break;
+        Oranges();
+        break;
     case 'Mangoes':
+
     case 'Papayas':
-    Papayas();
-    // expected output: "Mangoes and papayas are $2.79 a pound."
-    break;
+        Papayas();
+        // expected output: "Mangoes and papayas are $2.79 a pound."
+        break;
+
     default:
-    Default();
+        Default();
 }
 
-// CURD
+// CURD   函式
 function Oranges(){
     console.log('1-Oranges are $0.59 a pound.');
 }
